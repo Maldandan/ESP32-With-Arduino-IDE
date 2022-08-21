@@ -1,7 +1,7 @@
 # ESP32 With Arduino IDE
 How to setup your Arduino IDE for ESP32 Microcontrollers 
 
-**1- ON YOU ARDUINO IDE, GO TO `File` then `Preferences`
+**1- ON YOU ARDUINO IDE, GO TO `File` then `Preferences`**
 
 ![Screenshot 2022-08-21 060534](https://user-images.githubusercontent.com/109004035/185773558-4eebe24c-552e-427e-ab62-974eb007431a.jpg)
 
